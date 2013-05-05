@@ -12,8 +12,8 @@ Merge the post from one category of first site to the second category on the sec
 
 == Description ==
 
-Is possible to define the categories of post of the two sites, number of posts and the order. 
-For the child site theme use this shortcode syntacts:
+Is possible to define the categories of post of the two sites, number of posts and the order.
+For display post of both categories in child site theme use this shortcode syntax:
 
 [mupost blogid=XX maincategoryid=YY selfcategoryid=YY order=asc/desc]
 
